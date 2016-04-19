@@ -1,0 +1,3 @@
+destination: public
+title: Jekyll Boilerplate
+exclude: ['README.md']
